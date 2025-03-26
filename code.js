@@ -15,7 +15,7 @@
         let score = 0;
         let pipes = [];
         let pipeGap = 150;
-        let pipeFrequency = 2000;    // Increased from 1500 ms
+        let pipeFrequency = 1500;    // Increased from 1500 ms
         let lastPipeTime = 0;
 
         // Initialize game
