@@ -20,7 +20,7 @@
 
         // Initialize game
         function init() {
-            birdY = 300;
+            birdY = 400;
             birdVelocity = 0;
             score = 0;
             scoreElement.textContent = score;
