@@ -9,7 +9,7 @@
         
         let birdY = 300;
         let birdVelocity = 0;
-        let gravity = 1;          // Reduced from 0.5
+        let gravity = 0.9;          // Reduced from 0.5
         let jumpForce = -2;          // Reduced from -10
         let pipeSpeed = 1.5;         // New variable for pipe speed
         let gameRunning = true;
